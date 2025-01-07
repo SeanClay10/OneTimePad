@@ -1,0 +1,9 @@
+Sean Clayton : 934425200
+Operating Systems II
+
+To compile program:
+- Type "make" into the terminal
+
+To run the test script:
+- Type "./p5testscript PORT1 PORT2 > mytestresults 2>&1"
+- Replace the ports with valid port numbers
